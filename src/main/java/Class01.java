@@ -14,6 +14,7 @@ public class Class01 {
         //Local den sevgiler...
         //lalala
         //olaola
+        //merhaba
 
         //yeni versiyon
 
